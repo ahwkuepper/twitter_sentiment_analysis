@@ -8,4 +8,4 @@ For each word, the script counts the occurences of words in tweets they were men
 
 The Jupyter notebook visualizes the data collected from the Twitter stream. Below is a visualization for the March 6 Presidential Debate of the Democratic Party in Flint, Michigan, featuring Hillary Clinton and Bernie Sanders. The filter words for this sentiment analysis were 'Clinton' and 'Sanders'. The plot show differential prevalence and arousal map between the two candidates. Bernie Sanders seems to polarize his audience more than Hillary Clinton.
 
-![My image](ahwkuepper.github.com/twitter_sentiment_analysis/difference_maps_democrats.png)
+![My image](ahwkuepper.github.com/twitter_sentiment_analysis/plots/difference_maps_democrats.png)
